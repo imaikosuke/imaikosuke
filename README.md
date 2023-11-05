@@ -7,7 +7,7 @@
 <table>
   <tr>
     <!-- ソーシャルメディアのリンク -->
-    <td valign="top">
+    <td>
       <h3>Links</h3>
       <p>
         <a href="https://www.linkedin.com/in/imaikosuke/">LinkedIn</a><br>
@@ -15,9 +15,8 @@
         <a href="https://www.facebook.com/profile.php?id=61553206050572">Facebook</a>
       </p>
     </td>
-    
     <!-- GitHubの統計 -->
-    <td valign="top">
+    <td>
       <a href="https://github.com/imaikosuke">
         <img src="https://github-readme-stats.vercel.app/api?username=imaikosuke&show_icons=true&theme=vue" alt="imaikosukeのGitHub統計">
       </a>
