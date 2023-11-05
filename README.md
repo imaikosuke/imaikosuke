@@ -1,14 +1,10 @@
 <!-- ヘッダー画像やバナー -->
 <p align="center">
-  <img src="./HelloWorld.png" alt="ヘッダー画像">
+  <img src="./githubHelloWorld.png" alt="ヘッダー画像">
 </p>
 
-<!-- あなたの名前と役職 -->
-<h1 align="center">🚀My name is imaikosuke</h1>
-<p align="center">I'm a student @42Tokyo</p>
-
 <!-- ソーシャルメディアのバッジ -->
-<p align="center">
+<p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/imaikosuke/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white">
@@ -21,14 +17,12 @@
   <a href="https://www.facebook.com/profile.php?id=61553206050572">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=white">
   </a>
-  
-  <!-- 他のバッジがあればここに追加 -->
 </p>
 
 <!-- GitHubの統計 -->
 ## 📈 GitHubの統計
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/imaikosuke">
     <img src="https://github-readme-stats.vercel.app/api?username=imaikosuke&show_icons=true&theme=vue" alt="あなたのGitHub統計">
   </a>
@@ -41,4 +35,4 @@
 </p>
 
 <!-- 最後に、フッターとして感謝のメッセージなどを -->
-<p align="center">⭐️ Thank you for watching.</p>
+<p align="center">⭐️ Thank you.</p>
