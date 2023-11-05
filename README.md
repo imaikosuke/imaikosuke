@@ -4,18 +4,17 @@
 </p>
 
 <!-- メイン -->
-<table>
+<table width="100%">
   <tr>
     <!-- ソーシャルメディアのリンク -->
-    <td align="left">
-      <p>
-        <a href="https://www.linkedin.com/in/imaikosuke/"><h2>LinkedIn</h2></a><br>
-        <a href="https://twitter.com/imai_code"><h2>X(Twitter)</h2></a><br>
-        <a href="https://www.facebook.com/profile.php?id=61553206050572"><h2>Facebook</h2></a>
-      </p>
+    <td width="50%" align="left">
+      <h3>🚀Links</h3>
+      <a href="https://www.linkedin.com/in/imaikosuke/">LinkedIn</a><br>
+      <a href="https://twitter.com/imai_code">Twitter</a><br>
+      <a href="https://www.facebook.com/profile.php?id=61553206050572">Facebook</a>
     </td>
     <!-- GitHubの統計 -->
-    <td align="right">
+    <td width="50%" align="right">
       <a href="https://github.com/imaikosuke">
         <img src="https://github-readme-stats.vercel.app/api?username=imaikosuke&show_icons=true&theme=vue" alt="imaikosukeのGitHub統計">
       </a>
