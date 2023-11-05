@@ -1,21 +1,21 @@
 <!-- ヘッダー画像やバナー -->
 <p align="center">
-  <img src="./githubHelloWorld.png" alt="ヘッダー画像">
+  <img src="./githubProfile.png" alt="ヘッダー画像">
 </p>
 
 <!-- ソーシャルメディアのバッジ -->
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/imaikosuke/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white">
+    <h3>LinkdIn</h3>
   </a>
   <!-- Twitter -->
   <a href="https://twitter.com/imai_code">
-    <img alt="Twitter" src="https://img.shields.io/badge/X(Twitter)-black?style=flat&logo=twitter&logoColor=white">
+    <h3>X(Twitter)</h3>
   </a>
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=61553206050572">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=white">
+    <h3>Facebook</h3>
   </a>
 </p>
 
