@@ -11,15 +11,15 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/imaikosuke/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white">
   </a>
   <!-- Twitter -->
   <a href="https://twitter.com/imai_code">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter">
+    <img alt="Twitter" src="https://img.shields.io/badge/X(Twitter)-black?style=flat&logo=twitter&logoColor=white">
   </a>
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=61553206050572">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=white">
   </a>
   
   <!-- 他のバッジがあればここに追加 -->
