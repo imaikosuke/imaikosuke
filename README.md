@@ -4,7 +4,7 @@
 </p>
 
 <!-- メイン -->
-<table width="100%">
+<table width="200%">
   <tr>
     <!-- ソーシャルメディアのリンク -->
     <td width="100%" align="left">
@@ -14,7 +14,7 @@
       <a href="https://www.facebook.com/profile.php?id=61553206050572">Facebook</a>
     </td>
     <!-- GitHubの統計 -->
-    <td align="right">
+    <td width="100%"align="right">
       <a href="https://github.com/imaikosuke">
         <img src="https://github-readme-stats.vercel.app/api?username=imaikosuke&show_icons=true&theme=vue" alt="imaikosukeのGitHub統計">
       </a>
