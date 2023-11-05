@@ -20,8 +20,6 @@
 </p>
 
 <!-- GitHubの統計 -->
-## 📈 GitHubの統計
-
 <p align="right">
   <a href="https://github.com/imaikosuke">
     <img src="https://github-readme-stats.vercel.app/api?username=imaikosuke&show_icons=true&theme=vue" alt="あなたのGitHub統計">
