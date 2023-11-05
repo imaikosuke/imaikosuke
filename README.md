@@ -2,9 +2,7 @@
 <img src="./githubProfile.png" alt="Hello World.">
 
 <!-- メイン -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imaikosuke&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaikosuke" />
-</a>
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=imaikosuke&theme=dark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaikosuke&layout=compact&show_icons=true&theme=dark" />
+</p>
