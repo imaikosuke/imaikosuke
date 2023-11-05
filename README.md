@@ -1,11 +1,11 @@
 <!-- ヘッダー画像やバナー -->
 <p align="center">
-  <img src="path_to_your_banner_image.png" alt="ヘッダー画像">
+  <img src="./HelloWorld.png" alt="ヘッダー画像">
 </p>
 
 <!-- あなたの名前と役職 -->
-<h1 align="center">こんにちは👋、私は[imai kosuke]です!</h1>
-<p align="center">[A student] @ [42Tokyo]</p>
+<h1 align="center">🚀My name is imaikosuke</h1>
+<p align="center">I'm a student @42Tokyo</p>
 
 <!-- ソーシャルメディアのバッジ -->
 <p align="center">
@@ -25,13 +25,6 @@
   <!-- 他のバッジがあればここに追加 -->
 </p>
 
-<!-- 自己紹介のセクション -->
-## 👨‍💻 自己紹介
-
-- 🔭 現在取り組んでいること: [42TokyoのCommonCore | ポートフォリオサイト制作]
-- 🌱 現在学んでいること: [C | C++ | Python | HTML | CSS | JavaScript | Vue.js]
-- 📫 連絡方法: [imaikosuke2@gmail.com]
-
 <!-- GitHubの統計 -->
 ## 📈 GitHubの統計
 
@@ -41,17 +34,6 @@
   </a>
 </p>
 
-<!-- プロジェクトのセクション -->
-## 🚀 ピン留めリポジトリ
-
-<!-- あなたのリポジトリのカード -->
-<p align="center">
-  <a href="https://github.com/imaikosuke/todo-vue-tutorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imaikosuke&repo=todo-vue-tutorial&theme=vue" alt="リポジトリ名">
-  </a>
-  <!-- 他のリポジトリカードがあればここに追加 -->
-</p>
-
 <!-- フッター -->
 <p align="center">
   <!-- GIFや画像などで装飾が可能 -->
@@ -59,4 +41,4 @@
 </p>
 
 <!-- 最後に、フッターとして感謝のメッセージなどを -->
-<p align="center">⭐️ [imaikosuke]から</p>
+<p align="center">⭐️ Thank you for watching.</p>
