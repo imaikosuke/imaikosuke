@@ -8,10 +8,11 @@
   <tr>
     <!-- ソーシャルメディアのリンク -->
     <td valign="top">
-    	<br>
-        <p><a href="https://www.linkedin.com/in/imaikosuke/">LinkedIn</a></p>
-        <p><a href="https://twitter.com/imai_code">Twitter</a></p>
-        <p><a href="https://www.facebook.com/profile.php?id=61553206050572">Facebook</a></p>
+      <h3>Links</h3>
+      <br>
+      <p><a href="https://www.linkedin.com/in/imaikosuke/">LinkedIn</a></p>
+      <p><a href="https://twitter.com/imai_code">Twitter</a></p>
+      <p><a href="https://www.facebook.com/profile.php?id=61553206050572">Facebook</a></p>
     </td>
     <!-- GitHubの統計 -->
     <td valign="top">
