@@ -1,7 +1,5 @@
 <!-- ヘッダー画像 -->
-<p align="center">
-  <img src="./githubProfile.png" alt="Hello World.">
-</p>
+<img src="./githubProfile.png" alt="Hello World.">
 
 <!-- メイン -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,6 +8,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaikosuke" />
 </a>
-
-<!-- フッター -->
-<p align="center">⭐️ Thank you.</p>
