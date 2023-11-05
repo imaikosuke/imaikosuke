@@ -6,18 +6,18 @@
 <!-- メイン -->
 <div>
   <!-- ソーシャルメディアのリンク -->
-  <td align="left">
+  <div align="left">
     <p>🚀Links</p>
     <a href="https://www.linkedin.com/in/imaikosuke/">LinkedIn</a><br>
     <a href="https://twitter.com/imai_code">Twitter</a><br>
     <a href="https://www.facebook.com/profile.php?id=61553206050572">Facebook</a>
-  </td>
+  </div>
   <!-- GitHubの統計 -->
-  <td align="right">
+  <div align="right">
     <a href="https://github.com/imaikosuke">
       <img src="https://github-readme-stats.vercel.app/api?username=imaikosuke&show_icons=true&theme=vue" alt="imaikosukeのGitHub統計">
     </a>
-  </td>
+  </div>
 </div>
 
 <!-- フッター -->
