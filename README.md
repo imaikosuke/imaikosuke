@@ -1,6 +1,6 @@
 <!-- Header -->
 <div>
-  <img src="./githubProfile.png" alt="Hello World.">
+  <img src="./github-background.png" alt="Hello World.">
 </div>
 <!-- GitHub Data -->
 <div align="center">  
