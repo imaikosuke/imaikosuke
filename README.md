@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-size: 1.4em;
+  }
+</style>
+
 <div>
   <img src="./github-background.png" alt="Hello World.">
 </div>
