@@ -1,6 +1,6 @@
 # Kosuke Imai
 
-Hi! I'm Kosuke Imai. I go by the handle "_**imaikosuke_**_" all over the internet, so I'd be thrilled if you remembered it. I'm a Tokyo-based 🇯🇵 software engineer with a primary focus on web frontend development.
+Hi! I'm Kosuke Imai. I go by the handle "***imaikosuke_***" all over the internet, so I'd be thrilled if you remembered it. I'm a Tokyo-based 🇯🇵 software engineer with a primary focus on web frontend development.
 
 > _Grateful for the technologies built up over time._
 
